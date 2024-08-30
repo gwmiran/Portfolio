@@ -1,0 +1,1 @@
+This is an example file used for my first push in the Git Essential Training.
